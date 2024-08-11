@@ -1,1 +1,1 @@
-# pseudogt
+# Alexander Kressin's pseudogt
